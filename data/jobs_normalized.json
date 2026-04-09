@@ -1,0 +1,80 @@
+[
+  {
+    "job_id": "4327892126",
+    "job_url": "https://www.linkedin.com/jobs/view/4327892126/",
+    "title": "Project Coordinator",
+    "company": "Russell Tobin",
+    "location": {
+      "raw": "",
+      "city": null,
+      "country": null,
+      "is_remote": false,
+      "is_hybrid": false,
+      "is_onsite": true
+    },
+    "work_mode": "onsite",
+    "employment_type": {
+      "raw": "",
+      "type": "unknown"
+    },
+    "easy_apply": false,
+    "job_description": "",
+    "experience": {
+      "min_years": null,
+      "max_years": null
+    },
+    "scraped_at": "2025-12-27T04:36:30.994689"
+  },
+  {
+    "job_id": "4346071835",
+    "job_url": "https://www.linkedin.com/jobs/view/4346071835/",
+    "title": "Director Program Management",
+    "company": "ProductSquads",
+    "location": {
+      "raw": "",
+      "city": null,
+      "country": null,
+      "is_remote": false,
+      "is_hybrid": false,
+      "is_onsite": true
+    },
+    "work_mode": "onsite",
+    "employment_type": {
+      "raw": "adama - project manager - contract manufacturing",
+      "type": "contract"
+    },
+    "easy_apply": false,
+    "job_description": "",
+    "experience": {
+      "min_years": null,
+      "max_years": null
+    },
+    "scraped_at": "2025-12-27T04:36:37.417199"
+  },
+  {
+    "job_id": "4344981616",
+    "job_url": "https://www.linkedin.com/jobs/view/4344981616/",
+    "title": "Business Project Coordinator, Senior Associate",
+    "company": "Vanguard",
+    "location": {
+      "raw": "",
+      "city": null,
+      "country": null,
+      "is_remote": false,
+      "is_hybrid": false,
+      "is_onsite": true
+    },
+    "work_mode": "onsite",
+    "employment_type": {
+      "raw": "full-time",
+      "type": "full-time"
+    },
+    "easy_apply": false,
+    "job_description": "",
+    "experience": {
+      "min_years": null,
+      "max_years": null
+    },
+    "scraped_at": "2025-12-27T04:36:43.075340"
+  }
+]
